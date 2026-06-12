@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/country-explorer-dashboard-269108-269109/react_frontend"
+}
